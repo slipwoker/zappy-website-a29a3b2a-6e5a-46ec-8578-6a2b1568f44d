@@ -7,56 +7,56 @@
 ## Pages
 
 ### Home
-https://mixzoo-a29a3b2a.zappy5.app
+https://mixzoo.zappy5.app
 Explore MixZoo&#39;s vibrant animal kingdom where dogs, bats, and coral reef fish collide. Meet our wild cast and unleash adventure with every click—join the fun today!
 
 ### Animal Cast
-https://mixzoo-a29a3b2a.zappy5.app/animal-cast
+https://mixzoo.zappy5.app/animal-cast
 Discover the MixZoo animal cast: from mysterious types of bats to dazzling coral reef fish and fierce shark fish. Which creature will steal your heart? Dive in now!
 
 ### About MixZoo
-https://mixzoo-a29a3b2a.zappy5.app/about
+https://mixzoo.zappy5.app/about
 Led by CEO Michael Buell, MixZoo blends domestic charm with wild spirit. Learn how our team brings bats, wolf lore, and reef life into one roaring brand adventure.
 
 ### Contact
-https://mixzoo-a29a3b2a.zappy5.app/contact
+https://mixzoo.zappy5.app/contact
 Got a question about otocinclus catfish care or our shark fish stars? Contact MixZoo now and let our animal-loving crew bring your wildest ideas to life—reach out today!
 
 ### Thank You | MixZoo
-https://mixzoo-a29a3b2a.zappy5.app/thank-you
+https://mixzoo.zappy5.app/thank-you
 Thank you for contacting MixZoo. Your message has been received and our team will be in touch shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://mixzoo-a29a3b2a.zappy5.app/privacy
+https://mixzoo.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://mixzoo-a29a3b2a.zappy5.app/terms
+https://mixzoo.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://mixzoo-a29a3b2a.zappy5.app/accessibility
+https://mixzoo.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Address: 7449 Oxbow Rd, Canastota, NY 13032, Canastota , New York, 13032, USA
 
 ### Contact form
-- URL: https://mixzoo-a29a3b2a.zappy5.app/contact
-- Endpoint: https://mixzoo-a29a3b2a.zappy5.app/api/email/contact-form
+- URL: https://mixzoo.zappy5.app/contact
+- Endpoint: https://mixzoo.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text)
-  - `email` (email)
+  - `name` (text, required)
+  - `email` (email, required)
   - `phone` (tel)
-  - `message` (textarea)
-  - `privacy_consent` (checkbox)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
@@ -78,6 +78,6 @@ Pet & Animal Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://mixzoo-a29a3b2a.zappy5.app/sitemap.xml
-- Robots: https://mixzoo-a29a3b2a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://mixzoo-a29a3b2a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://mixzoo.zappy5.app/sitemap.xml
+- Robots: https://mixzoo.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mixzoo.zappy5.app/llms-full.txt
